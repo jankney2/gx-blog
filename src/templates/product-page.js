@@ -30,10 +30,11 @@ export const ProductPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          boxShadow: '0.5rem 0 0 #15CE71, -0.5rem 0 0 #15CE71',
+          backgroundColor: '#15CE71',
           color: 'white',
           padding: '1rem',
+          borderRadius:'10px'
         }}
       >
         {title}
