@@ -1,9 +1,10 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "greenix-info-center",
+  "description": "Greenix Corporate communication blog",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "jankney",
   "dependencies": {
+    "@mkitio/gatsby-theme-password-protect": "^2.1.2",
     "bulma": "^0.9.0",
     "gatsby": "^2.20.35",
     "gatsby-image": "^2.3.5",

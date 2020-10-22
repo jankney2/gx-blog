@@ -16,6 +16,13 @@ module.exports = {
       },
     },
     {
+
+      resolve: '@mkitio/gatsby-theme-password-protect',
+      options: {
+        password:'yeet'
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
