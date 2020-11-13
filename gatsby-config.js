@@ -15,13 +15,13 @@ module.exports = {
         name: 'uploads',
       },
     },
-    {
+    // {
 
-      resolve: '@mkitio/gatsby-theme-password-protect',
-      options: {
-        password:'yeet'
-      },
-    },
+    //   resolve: '@mkitio/gatsby-theme-password-protect',
+    //   options: {
+    //     password:'yeet'
+    //   },
+    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
